@@ -1,13 +1,10 @@
-
-
 <h1 align="center">Hi 👋, I'm Dorcas Adeweh Abang</h1>
 <h3 align="center">A passionate and consistent Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adeweh&label=Profile%20views&color=0e75b6&style=flat" alt="adeweh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/dorcasabang?t=ynee6avqycnb-dj2te-iuw&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/dorcasabang?t=ynee6avqycnb-dj2te-iuw&s=09?logo=twitter&style=for-the-badge" alt="https://twitter.com/dorcasabang?t=ynee6avqycnb-dj2te-iuw&s=09" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@dorcasabang" target="blank"><img src="https://img.shields.io/twitter/follow/@dorcasabang?logo=twitter&style=for-the-badge" alt="@dorcasabang" /></a> </p>
 
 - 💬 Ask me about **why the mind is a masterpiece**
 
@@ -17,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/dorcasabang?t=ynee6avqycnb-dj2te-iuw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/dorcasabang?t=ynee6avqycnb-dj2te-iuw&s=09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dorcas-abang?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bavxp5mlwsegfvqejwp6jwq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dorcas-abang?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bavxp5mlwsegfvqejwp6jwq%3d%3d" height="30" width="40" /></a>
+<a href="https://twitter.com/@dorcasabang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@dorcasabang" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/@dorcas-abang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@dorcas-abang" height="30" width="40" /></a>
 <a href="https://instagram.com/@abang_adeweh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@abang_adeweh" height="30" width="40" /></a>
 </p>
 
